@@ -109,4 +109,5 @@ class PatientResource extends Resource
     }
 
     //nama saya adalah ikmal
+    //aeheyyy
 }
