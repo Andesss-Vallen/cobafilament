@@ -107,4 +107,6 @@ class PatientResource extends Resource
             'edit' => Pages\EditPatient::route('/{record}/edit'),
         ];
     }
+
+    //nama saya adalah ikmal
 }
