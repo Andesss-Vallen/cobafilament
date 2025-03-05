@@ -72,6 +72,7 @@ class PatientResource extends Resource
                 // Tables\Columns\TextColumn::make('owner.email'),
                 // Tables\Columns\TextColumn::make('owner.phone'),
                 //iya
+                //uhuy
             ])
             ->filters([
                 Tables\Filters\SelectFilter::make('type')
