@@ -71,6 +71,7 @@ class PatientResource extends Resource
                 ->searchable(),
                 // Tables\Columns\TextColumn::make('owner.email'),
                 // Tables\Columns\TextColumn::make('owner.phone'),
+                //iya
             ])
             ->filters([
                 Tables\Filters\SelectFilter::make('type')
