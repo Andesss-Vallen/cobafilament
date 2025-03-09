@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Schema;
 return new class extends Migration
 {
     /**
-     * Run the migrations. rrrrr
+     * Run the migrations. rrrrr depri puki
      */
     public function up(): void
     {
